@@ -1,0 +1,6 @@
+build/
+tmp/
+*.node
+*.exe
+.*.swp
+node_modules/

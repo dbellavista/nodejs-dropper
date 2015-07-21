@@ -1,0 +1,11 @@
+{
+  "name": "dropper_poc",
+  "version": "0.0.1",
+  "description": "Node.js Dropper Proof of Concept",
+  "main": "main.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "*"
+  }
+}
